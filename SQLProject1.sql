@@ -34,7 +34,7 @@ group by Location
 order by TotalDeathCount desc
 
 
---Let's break things down by Continent
+--Breaking things down by Continent
 
 --Showing continents with the Highest Death Count per population
 
